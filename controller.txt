@@ -1,0 +1,2 @@
+Este fichero se crea en la rama ticket02.
+y tiene 2 filas de texto.
