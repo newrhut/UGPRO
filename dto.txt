@@ -1,5 +1,10 @@
+añado nueva linea desde la rama ticket03
 nuevo ficero en la main
 modifico el fichero
+<<<<<<< HEAD
 la main ha seguido evolucionando este fichero
 y sigue poniendo lineas desde la main
 y otra linea desde la main
+=======
+añado nueva linea desde la rama ticket03
+>>>>>>> ticket03
